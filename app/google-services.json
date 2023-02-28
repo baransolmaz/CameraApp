@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417936190728",
+    "project_id": "cameraapp-bec1e",
+    "storage_bucket": "cameraapp-bec1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417936190728:android:b843075e1067f013b850bd",
+        "android_client_info": {
+          "package_name": "com.baransolmaz.cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417936190728-u2ialilsgjuikp250ccmk67o7gdjaagh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uPe8d_nVNpofS91mDMy8fvG7jK4iejY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417936190728-u2ialilsgjuikp250ccmk67o7gdjaagh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
